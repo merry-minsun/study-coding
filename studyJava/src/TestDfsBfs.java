@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Test {
+public class TestDfsBfs {
 	
 	public static int N = 0;
 	public static int L = 0;
